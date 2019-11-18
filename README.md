@@ -95,33 +95,6 @@ Delete existing instances of the form from device (blank and completed)
 
 ODK Collect Main Menu 
 
-- Settings
-- About
-  -
-    - Basic information about the App/Developers
-- General Settings
-  -
-    - Server
-    - Platform
-      - ODK Aggregate
-        -
-          - URL
-          - Username
-          - Password
-      - Google Drive, Google Sheets
-        -
-          - Google Account
-          - Fallback Submission URL
-      - Other
-        -
-          - URL
-          - Username
-          - Password
-          - Other Platform Settings
-          - User Interface
-          - Form Management
-          - User and Device Identity
-- Admin Settings
 
 The sections under ODK Aggregate and Google Drive/Sheets in Settings would need to be updated based on the type of server installed. More information can be accessed [here](https://docs.opendatakit.org/collect-intro/).
 
