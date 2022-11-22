@@ -1,4 +1,4 @@
-
+# Note: Updated docs coming up..
 # INTRODUCTION
 
 ODK or the Open Data Kit is an Open source suite of tools to build, collect and manage data, especially in resource constrained environments. Built by a team of developers across the world, major organisations from the likes of Google, WHO and Red Cross use the ODK for collecting data using a variety of tools built and optimised for mobile and web-based applications. Tools such as, ODK Collect for the mobile based data collection both in online and offline environments. ODK Aggregate, the remote server for the central database and management of forms and ODK Briefcase, the desktop application for handling everything in between.
